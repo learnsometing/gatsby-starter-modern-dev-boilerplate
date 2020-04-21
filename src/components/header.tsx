@@ -8,8 +8,13 @@ interface Props {
 }
 
 const SiteHeader = styled.header`
-  background: #294e80;
   margin-bottom: 1.45rem;
+  background: rgb(41, 78, 128);
+  background: linear-gradient(
+    150deg,
+    rgba(41, 78, 128, 1) 40%,
+    rgba(219, 112, 147, 1) 100%
+  );
 `;
 
 const HeaderContainer = styled.div`
