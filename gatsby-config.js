@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Default Starter`,
-    description: `Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.`,
-    author: `@gatsbyjs`,
+    title: `Gatsby Starter Modern Dev Boilerplate`,
+    description: `Default gatsby config with typescript, linting, styled-components, and testing configuration.`,
+    author: `Brian Monaccio <brianmonaccio@protonmail.com>`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
@@ -18,7 +18,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `gatsby-starter-ts-and-tests`,
+        name: `gatsby-starter-modern-dev-boilerplate`,
         short_name: `starter`,
         start_url: `/`,
         background_color: `#663399`,
@@ -32,4 +32,4 @@ module.exports = {
     // To learn more, visit: https://gatsby.dev/offline
     // `gatsby-plugin-offline`,
   ],
-}
+};

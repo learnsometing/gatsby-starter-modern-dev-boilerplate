@@ -1,7 +1,7 @@
 {
-  "name": "gatsby-starter-ts-and-tests",
+  "name": "gatsby-starter-modern-dev-boilerplate",
   "private": true,
-  "description": "A starter with established typescript development and jest/cypress testing environments.",
+  "description": "Default gatsby config with typescript, linting, styled-components, and testing configuration.",
   "version": "0.1.0",
   "author": "Brian Monaccio <brianmonaccio@protonmail.com>",
   "dependencies": {
