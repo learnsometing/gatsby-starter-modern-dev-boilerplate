@@ -37,7 +37,7 @@ _Have another more specific idea? You may want to check out our vibrant collecti
     Use the Gatsby CLI to create a new site, specifying the default starter.
 
     ```shell
-    # create a new Gatsby site using the default starter
+    # create a new Gatsby site using this starter
     gatsby new my-modern-starter https://github.com/learnsometing/gatsby-starter-modern-dev-boilerplate
     ```
 
@@ -89,7 +89,7 @@ A quick look at the top-level files and directories you'll see in this project.
     
 1. **`/__mocks__`**: This directory contains recommended mocks for [unit testing.](https://www.gatsbyjs.org/docs/unit-testing/#3-useful-mocks-to-complete-your-testing-environment)
 
-2. **`/.vscode`**: This directory contains vscode settings for linting on save. If you don't use vscode or don't want the editor to format on save, delete this file.
+2. **`/.vscode`**: This directory contains vscode settings for linting on save. If you don't use vscode or don't want the editor to format on save, delete this folder.
 
 3. **`/e2e`**: This directory contains the cypress end to end testing files and environment configuration.
 
